@@ -1,0 +1,2 @@
+# Gocorona
+help for coronavirus
